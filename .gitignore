@@ -1,0 +1,10 @@
+# Competition kit files are not part of the entry repository snapshot.
+cli/
+harness/
+starter/
+RULES.txt
+competition.yaml
+kit.json
+transcripts.tar.gz
+wallet.json
+out/
