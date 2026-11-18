@@ -1,5 +1,9 @@
 # The World, in One Day
 
+[![Competition](https://make.fun/badge/news-image-20261118.svg)](https://make.fun/c/news-image-20261118)
+[![Rank](https://make.fun/badge/news-image-20261118/Harrison215/news-image-20261118/rank.svg)](https://make.fun/c/news-image-20261118)
+[![Reward](https://make.fun/badge/news-image-20261118/Harrison215/news-image-20261118/reward.svg)](https://make.fun/c/news-image-20261118)
+
 An offline, deterministic illustrated summary of world news reported on Wednesday, 18 November 2026.
 
 ## Run
